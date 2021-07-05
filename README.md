@@ -36,7 +36,7 @@ pip install scikit-learn
 ```
 - Run the Script, type: 
 ```bash
-python3 app.py`.
+python3 main.py`.
 ```
 
 ## 💥 How to Contribute?

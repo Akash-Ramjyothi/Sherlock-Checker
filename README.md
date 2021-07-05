@@ -8,7 +8,12 @@
 The project **"Sherlock Checker"** is a Plagiarism Checker system that is used to detect plagiarism in files using cosine similarity. To compute the similarity between the two files, the raw data is transformed into vectors, and then to arrays of numbers and then used vectors to compute the similarity between the files and prints the value in Decimals where `1.0` indicates `100%`.
 
 ## 📽 Sample Demo:
+https://user-images.githubusercontent.com/54114888/124497059-ef740f80-ddd7-11eb-95ae-2ffb55acb58e.mp4
 
+## 👀 The above demonstration Shows the working in 3 scenarios:
+- 1st scenario shows Maximum similarity between the 2 files.
+- 2nd scenario shows few lines removed, and `~70%` similarity between the files.
+- 3rd scenario shows all the lines of the file removed and `0%` similarity between the files.
 
 ## 🏗 Built With:
 - Python.

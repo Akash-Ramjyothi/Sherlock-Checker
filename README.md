@@ -22,6 +22,9 @@ https://user-images.githubusercontent.com/54114888/124497059-ef740f80-ddd7-11eb-
 - cosine_similarity.
 - Pycharm.
 
+## 📝 Feedback Form:
+https://forms.gle/uYKJLqpQH4FryyG19
+
 ## 🧪 Steps to Build locally:
 - Clone the Repository with: 
 ```bash 
